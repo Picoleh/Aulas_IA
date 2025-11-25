@@ -11,5 +11,7 @@ Material para aulas de Inteligência Artificial do Curso de Ciência da Computa�
 
 * Entrega do Artigo - ([Artigos](https://github.com/claytontey/Aulas_IA/tree/main/Trabalho_final)).
 
+* Entrega do Deploy - ([Deploy-BSI](https://github.com/claytontey/Aulas_IA/tree/main/deploy_BSI))
+
 
 
